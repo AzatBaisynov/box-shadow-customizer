@@ -15,7 +15,6 @@ main {
 }
 
 .box {
-    max-width: 350px;
     padding: 20px;
     height: 450px;
     background-color: #36557a;
@@ -166,10 +165,13 @@ input[type="color"]::-webkit-color-swatch {
     align-items: center;
 }
 
+.right-side {
+    padding: 0 25px;
+}
+
 .color__input {
     margin-left: 50px;
 }
-
 
 @media (max-width: 685px) {
     .box {
