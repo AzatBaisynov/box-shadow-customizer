@@ -172,6 +172,9 @@ input[type="color"]::-webkit-color-swatch {
 
 
 @media (max-width: 685px) {
+    .box {
+        height: 250px;
+    }
     .box__container{
         padding-bottom: 100px;
     }
