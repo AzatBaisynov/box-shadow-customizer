@@ -169,3 +169,10 @@ input[type="color"]::-webkit-color-swatch {
 .color__input {
     margin-left: 50px;
 }
+
+
+@media (max-width: 685px) {
+    .box__container{
+        padding-bottom: 100px;
+    }
+}
